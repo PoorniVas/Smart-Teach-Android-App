@@ -69,7 +69,7 @@
 Smart Teach represents a holistic solution for educators by combining simplicity with advanced functionalities, providing a versatile toolset for enhancing teaching workflows. The app's commitment to a user-friendly experience, coupled with its comprehensive features, positions it as an invaluable companion for teachers seeking to optimize their classroom management processes and create a more engaging learning environment.
 
 ## Key File
-[Source Code]
+[Source Code](https://github.com/PoorniVas/Smart-Teach-Android-App/tree/master)
 
 
 ### Prerequisites
