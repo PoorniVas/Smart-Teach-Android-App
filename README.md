@@ -32,21 +32,30 @@
 ![Home Screen](https://github.com/PoorniVas/Smart-Teach-Android-App/assets/113405701/9653de9d-7eeb-4058-8830-05c003669229)
 
 
+
 ### Attendance Management
 ![Attendance Management](https://github.com/PoorniVas/Smart-Teach-Android-App/assets/113405701/795de384-cf63-4024-bfc0-26a3bdde286f)
+
+
 
 ### Notes
 ![Notes](https://github.com/PoorniVas/Smart-Teach-Android-App/assets/113405701/fc69d2bb-7009-488f-83fc-8625211a2d06)
 
+
+
 ### Class Scheduling
 ![scheduler](https://github.com/PoorniVas/Smart-Teach-Android-App/assets/113405701/525bf948-ba79-4d46-957f-87725c3ce887)
+
+
 
 ### Student Profile
 ![student profile](https://github.com/PoorniVas/Smart-Teach-Android-App/assets/113405701/255242c4-33d9-45c9-9eee-52913bd663e2)
 
 
+
 ### CGPA Calculator
 ![CGPA Calculator](https://github.com/PoorniVas/Smart-Teach-Android-App/assets/113405701/db3284bd-f3d5-4ed8-8661-a87fc390b4c2)
+
 
 
 ## Security and Data Privacy
